@@ -2,7 +2,7 @@
 
 A web application for user authentication and contact form using HTML, CSS, Node.js, and MongoDB.
 
-## Installation**
+## Installation
 
 bash
 Copy code
@@ -13,7 +13,7 @@ npm install
 
 Make sure MongoDB is installed and running. Update the MongoDB connection string in app.js to match your MongoDB server.
 
-## **Usage
+## Usage
 
 Start the server:
 
